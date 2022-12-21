@@ -10,17 +10,17 @@ const Left = () => {
                 <h1 className='font-bold text-xl xl:text-2xl pb-2 '>My Earnings</h1>
                 <p className='text-md'>Find all your Earnings here</p>
             <div className='items-start justify-start flex flex-col px-6 pt-8 pb-4 bg-[#89f887] mt-6 w-full rounded-lg shadow-2xl shadow-emerald-200'>
-                <h1 className='text-1xl font-black'>Farm X</h1>
-                <h1 className=' text-sm  font-black py-2 md:text-3xl  md:font-bold md:py-6'>Kes.90,500.00</h1>
+                <h1 className='text-1xl font-black'> SmartFarm</h1>
+                <h1 className=' text-sm  font-black py-2 md:text-3xl  md:font-bold md:py-6'>Rs.70,500.00</h1>
             </div>
             <div className='bg-black py-2 md:py-4 px-4 md:px-8 w-full items-start justify-between flex rounded-lg shadow-2xl shadow-emerald-200'>
                     <span className='flex flex-col items-start justify-start text-white'>
                         <h1 className='sm:font-sm'>Farmer</h1>
-                        <p >James Maina</p>
+                        <p >Raman Singla</p>
                     </span>
                     <span className='flex flex-col items-start justify-start text-white'>
                         <h1 className=' sm:font-sm'>Id</h1>
-                        <p>135689276</p>
+                        <p>135</p>
                     </span>
             </div>
 
