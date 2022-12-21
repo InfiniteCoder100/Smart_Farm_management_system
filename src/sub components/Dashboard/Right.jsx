@@ -14,7 +14,7 @@ const Right = () => {
             </span>
             <span className='items-center justify-center flex flex-col'>
                 <h2>Availabla Money</h2>
-                <h2 className='font-bold text-xl'>Kes.13,000.55</h2>
+                <h2 className='font-bold text-xl'>Rs.13,000.55</h2>
             </span>
           </div>
           <div className='space-y-6 w-full items-center justify-center flex flex-col'>
@@ -23,14 +23,14 @@ const Right = () => {
             </span>
             <span className='items-center justify-center flex flex-col'>
                 <h2>Pending Payments</h2>
-                <h2 className='font-bold text-xl'>Kes.3,000.90</h2>
+                <h2 className='font-bold text-xl'>Rs.3,000.90</h2>
             </span>
           </div>
           <div className='bg-gray-900 pt-6 items-center justify-between flex flex-col w-full rounded-lg shadow-lg shadow-sky-900'>
               <span className='items-center justify-center flex flex-col py-6'>
                 <h3 className='text-white'>Total Amount</h3>
                 <h1 className='text-white font-bold text-xl 2xl:text-3xl'>
-                  Kes.300,000.00
+                  Rs.300,000.00
                 </h1>
               </span>
               <div className='bg-sky-900 items-center justify-center flex text-white w-full py-2'>
