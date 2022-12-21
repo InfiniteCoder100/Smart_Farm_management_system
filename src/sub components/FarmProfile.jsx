@@ -27,7 +27,7 @@ const FarmProfile = () => {
                 </div>
             </div>
             <div className='bg-sky-300 w-full text-center h-full '>
-              <h1 className='font-bold md:text-2xl'>Nairutia Farm ltd.</h1>
+              <h1 className='font-bold md:text-2xl'>Smart Farm.</h1>
               <div className='bg-emerald-400 grid grid-cols-2 rounded-lg gap-5 flex 
               m-6 p-6 justify-center items-center md:p-12 m-12'>
                 <span className='text-left ml-4 mt-2 font-bold'>
@@ -37,10 +37,10 @@ const FarmProfile = () => {
                   <h2>Farm Id:</h2>
                 </span>
                 <span className='text-left ml-4 mt-2 font-medium'>
-                  <h2>Nairutia farm ltd.</h2>
-                  <h2>Old Man of koreo</h2>
-                  <h2>Nirutia</h2>
-                  <h2>FIN9200</h2>
+                  <h2>EasyFarming</h2>
+                  <h2>Raman Singla</h2>
+                  <h2>UP, India</h2>
+                  <h2>F200</h2>
                 </span>
 
               </div>
