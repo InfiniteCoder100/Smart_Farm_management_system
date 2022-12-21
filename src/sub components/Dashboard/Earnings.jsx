@@ -14,7 +14,7 @@ function Earnings ({item}){
         </div>
         {/*price + percent*/}
         <div className='w-full items-end justify-end flex flex-col'>
-            <h1 className='font-bold'>Kes.{price}</h1>
+            <h1 className='font-bold'>Rs.{price}</h1>
             <p 
             className={`${upOrDown === "up" ? "text-green-400":"text-red-400"}`}
             >{percent}
