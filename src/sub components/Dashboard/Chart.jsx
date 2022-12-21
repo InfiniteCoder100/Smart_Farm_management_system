@@ -24,7 +24,7 @@ ChartJS.register(
   Legend
 );
 
-const labels = ["January", "February", "March"];
+const labels = ["September", "October", "November"];
 
 export const options = {
   scales: {
