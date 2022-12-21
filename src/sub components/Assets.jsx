@@ -76,8 +76,8 @@ const Assets = () => {
                    </thead>
                    <tbody>
                        <tr className='bg-white'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -85,8 +85,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-gray'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -94,8 +94,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-white'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -103,8 +103,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-gray'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -112,8 +112,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-white'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -121,8 +121,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-gray'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -130,8 +130,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-white'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
@@ -139,8 +139,8 @@ const Assets = () => {
                            <td className='p-3 text-sm text-gray-700'>Peter</td>
                        </tr>
                        <tr className='bg-gray'>
-                           <td className='p-3 text-sm text-gray-700'>18-04-2022</td>
-                           <td className='p-3 text-sm text-gray-700'>Kes. 1,200,350</td>
+                           <td className='p-3 text-sm text-gray-700'>18-12-2022</td>
+                           <td className='p-3 text-sm text-gray-700'>Rs. 1,200,350</td>
                            <td className='p-3 text-sm text-gray-700'>Machinery</td>
                            <td className='p-3 text-sm text-gray-700'>New</td>
                            <td className='p-3 text-sm text-gray-700'>Tractor</td>
